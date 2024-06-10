@@ -1,0 +1,3 @@
+1//0gDkqoXLxPsJBCgYIARAAGBASNwF-L9Ir0C4dnE-kdzapHNS0hKIIO8AadQIxkBxcUc4CJwWCMxGYywJ-EZoYCUmFigDESgoJmx4
+
+Example: firebase deploy --token "$FIREBASE_TOKEN"
